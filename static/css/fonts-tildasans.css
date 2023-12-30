@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations');     
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/tildasans-light.eot');
+  src: url('../fonts/tildasans-light.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),
+       url('../fonts/tildasans-light.woff2') format('woff2'),
+       url('../fonts/tildasans-light.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/tildasans-regular.eot');
+  src: url('../fonts/tildasans-regular.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-regular.woff2') format('woff2'),
+       url('../fonts/tildasans-regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/tildasans-medium.eot');
+  src: url('../fonts/tildasans-medium.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-medium.woff2') format('woff2'),
+       url('../fonts/tildasans-medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/tildasans-semibold.eot');
+  src: url('../fonts/tildasans-semibold.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-semibold.woff2') format('woff2'),
+       url('../fonts/tildasans-semibold.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/tildasans-bold.eot');
+  src: url('../fonts/tildasans-bold.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-bold.woff2') format('woff2'),
+       url('../fonts/tildasans-bold.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/tildasans-extrabold.eot');
+  src: url('../fonts/tildasans-extrabold.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-extrabold.woff2') format('woff2'),
+       url('../fonts/tildasans-extrabold.woff') format('woff');
+}
+@font-face {
+  font-family: 'TildaSans';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/tildasans-black.eot');
+  src: url('../fonts/tildasans-black.eot') format('embedded-opentype'),
+       url('../fonts/tildasans-vf.woff2') format('woff2-variations'),
+       url('../fonts/tildasans-vf.woff') format('woff-variations'),  
+       url('../fonts/tildasans-black.woff2') format('woff2'),
+       url('../fonts/tildasans-black.woff') format('woff');
+}
